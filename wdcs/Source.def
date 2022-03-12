@@ -1,0 +1,7 @@
+LIBRARY "wdcs.dll"
+EXPORTS
+    WinDbgExtensionDllInit
+    ExtensionApiVersion
+    help
+    checksec
+    path
