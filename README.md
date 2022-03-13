@@ -34,7 +34,7 @@ OPTIONS:
 		 RFG             : r rf rfg
 		 SafeSEH         : ss sseh safeseh
 		 GS              : g gs canary
-		 Authenticode    : a auth authenticode
+		 Authenticode    : au auth authenticode
 		 DotNET          : dn dotnet .net
 
 EXAMPLE:

@@ -73,7 +73,7 @@ DECLARE_API64(help) {
 		"\t\t RFG             : r rf rfg\n" \
 		"\t\t SafeSEH         : ss sseh safeseh\n" \
 		"\t\t GS              : g gs canary\n" \
-		"\t\t Authenticode    : a auth authenticode\n" \
+		"\t\t Authenticode    : au auth authenticode\n" \
 		"\t\t DotNET          : dn dotnet .net\n" \
 		"\n" \
 		"EXAMPLE:\n" \
